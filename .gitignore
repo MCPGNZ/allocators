@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Custom
+*.user
+*.vs
+Debug/
